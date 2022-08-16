@@ -1,4 +1,4 @@
-# User Data Show Using Async Awati
+# User Data Show Using Async Await
 
 ## Built With
 
